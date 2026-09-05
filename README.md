@@ -47,5 +47,4 @@ When IsAiming = true, zoom the camera in (FOV) and slightly shift it over the sh
 ##  Result
 Attach Rifle with character mesh and implementation bullet spawn from Rifle is successfully done.
 
-##  Result
-Attach Rifle with character mesh and implementation bullet spawn from Rifle is successfully done.
+
